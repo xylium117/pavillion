@@ -1,217 +1,227 @@
-Super Stars v. 1990s England at Super Stars
-Super Stars: 1 DL Haynes, 2 CH Gayle, 3 IVA Richards, 4 SR Tendulkar, 5 Shahid Afridi, 6 NJ Astle, 7 L Klusener, 8 †RC Russell, 9 GL Jessop, 10 B Lee, 11 Shoaib Akhtar
-1990s England: 1 MA Atherton, 2 NV Knight, 3 AJ Stewart, 4 GP Thorpe, 5 MA Butcher, 6 †AJ Stewart, 7 MA Ealham, 8 D Gough, 9 ARC Fraser, 10 AR Caddick, 11 PCR Tufnell
+World All-Time XI v. All-time World XI at World All-Time XI
+World All-Time XI: 1 L Hutton, 2 JB Hobbs, 3 DG Bradman, 4 RT Ponting, 5 SB Smith, 6 †KC Sangakkara, 7 GS Sobers, 8 Imran Khan, 9 GA Lohmann, 10 SK Warne, 11 M Muralitharan
+All-time World XI: 1 ML Hayden, 2 DG Bradman, 3 SR Tendulkar, 4 BC Lara, 5 RT Ponting, 6 †KC Sangakkara, 7 JH Kallis, 8 CL Cairns, 9 SK Warne, 10 GD McGrath, 11 M Muralitharan
 
-1990s England has won the toss.
-MA Atherton has elected to bat first.
+World All-Time XI has won the toss.
+RT Ponting has elected to bat first.
 
 
 Day 1
-11:20 1990s England 10-1 (5.3 overs)                MA Atherton b. B Lee 7 (23b) 0x4 0x6 - partnership 10  - new batsman AJ Stewart
-11:32 1990s England 16-2 (8.3 overs)                NV Knight run out (RC Russell) 5 (19b) 0x4 0x6 - partnership 6  - new batsman GP Thorpe
-11:56 1990s England 50-2 (14.1 overs)               AJ Stewart 25* (30b), GP Thorpe 11* (15b).
-12:12 1990s England 67-2 (18.4 overs)               50 partnership between AJ Stewart and GP Thorpe.
-12:40 1990s England 100-2 (25.1 overs)              AJ Stewart 44* (66b), GP Thorpe 36* (47b).
-12:52 1990s England 114-2 (28.3 overs)              AJ Stewart 51* (73b) 5x4 0x6
-12:52 1990s England 116-2 (28.6 overs)              100 partnership between AJ Stewart and GP Thorpe.
-13:00 1990s England 117-2 (30.0 overs)              Lunch: AJ Stewart 52* (74b), GP Thorpe 44* (68b)
+11:04 World All-Time XI 13-0 (1.0 overs)            13 runs from the GD McGrath over. (L Hutton 1 JB Hobbs 3 L Hutton 4 1 JB Hobbs 4 .)
+12:08 World All-Time XI 52-0 (17.4 overs)           L Hutton 31* (63b), JB Hobbs 20* (44b).
+12:08 World All-Time XI 52-0 (17.4 overs)           50 partnership between L Hutton and JB Hobbs.
+13:00 World All-Time XI 93-0 (30.0 overs)           Lunch: L Hutton 49* (91b), JB Hobbs 39* (90b)
 
-13:52 1990s England 136-2 (33.0 overs)              16 runs from the Shahid Afridi over. (AJ Stewart . 4 4 2 4b 2)
-13:52 1990s England 140-2 (33.2 overs)              GP Thorpe 51* (78b) 4x4 1x6
-13:56 1990s England 144-3 (34.3 overs)              AJ Stewart b. Shahid Afridi 64 (87b) 7x4 0x6 - partnership 128  - new batsman MA Butcher
-14:00 1990s England 150-3 (35.4 overs)              GP Thorpe 58* (86b), MA Butcher 3* (3b).
-14:40 1990s England 194-3 (45.6 overs)              50 partnership between GP Thorpe and MA Butcher.
-14:44 1990s England 194-4 (46.2 overs)              GP Thorpe st. †RC Russell b. Shahid Afridi 80 (115b) 6x4 1x6 - partnership 50  - new batsman AJ Stewart
-15:12 1990s England 220-5 (53.3 overs)              MA Butcher c. SR Tendulkar b. L Klusener 33 (58b) 1x4 0x6 - partnership 26  - new batsman MA Ealham
-15:40 1990s England 241-5 (60.0 overs)              Tea: AJ Stewart 20* (37b), MA Ealham 8* (27b)
+13:00 World All-Time XI 94-0 (30.1 overs)           L Hutton 50* (92b) 4x4 0x6
+13:52 World All-Time XI 100-0 (33.1 overs)          L Hutton 54* (101b), JB Hobbs 41* (99b).
+13:52 World All-Time XI 100-0 (33.1 overs)          100 partnership between L Hutton and JB Hobbs.
+13:56 World All-Time XI 107-0 (34.6 overs)          L Hutton dropped by JH Kallis off GD McGrath on 55*
+14:00 World All-Time XI 107-1 (35.2 overs)          JB Hobbs c. †KC Sangakkara b. CL Cairns 47 (105b) 2x4 0x6 - partnership 107  - new batsman DG Bradman
+14:24 World All-Time XI 136-2 (41.3 overs)          L Hutton c. BC Lara b. SK Warne 69 (121b) 5x4 1x6 - partnership 29  - new batsman RT Ponting
+14:32 World All-Time XI 146-3 (43.2 overs)          RT Ponting lbw. b. SK Warne 4 (5b) 1x4 0x6 - partnership 10  - new batsman SB Smith
+14:36 World All-Time XI 152-3 (44.1 overs)          DG Bradman 26* (32b), SB Smith 1* (3b).
+15:04 World All-Time XI 171-3 (51.5 overs)          DG Bradman dropped by ML Hayden off SK Warne on 41*
+15:20 World All-Time XI 183-3 (55.1 overs)          DG Bradman 51* (68b) 6x4 0x6
+15:36 World All-Time XI 196-3 (59.1 overs)          50 partnership between DG Bradman and SB Smith.
+15:40 World All-Time XI 198-3 (60.0 overs)          Tea: DG Bradman 55* (80b), SB Smith 15* (52b)
 
-16:16 1990s England 251-5 (64.4 overs)              AJ Stewart 27* (48b), MA Ealham 11* (44b).
-16:36 1990s England 258-6 (69.1 overs)              MA Ealham lbw. b. B Lee 12 (57b) 1x4 0x6 - partnership 38  - new batsman D Gough
-16:40 1990s England 259-7 (70.1 overs)              D Gough c. SR Tendulkar b. CH Gayle 1 (3b) 0x4 0x6 - partnership 1  - new batsman ARC Fraser
-16:44 1990s England 270-8 (71.5 overs)              ARC Fraser c. Shahid Afridi b. B Lee 7 (6b) 0x4 0x6 - partnership 11  - new batsman AR Caddick
-17:00 1990s England 285-9 (75.5 overs)              AJ Stewart c. †RC Russell b. B Lee 47 (85b) 1x4 0x6 - partnership 15  - new batsman PCR Tufnell
-17:08 1990s England 288-10 (77.2 overs)             AR Caddick c. Shoaib Akhtar b. B Lee 6 (13b) 1x4 0x6 - partnership 3 
-17:08 1990s England 288-10 (77.2 overs)             B Lee 21.2 -  2 -  81 -  5
-17:08 1990s England 288-10 (77.2 overs)             End of innings - AR Caddick 6 (13b), PCR Tufnell 1* (5b).
-
- 1990s England - 1st innings
-*MA Atherton                                                    b. B Lee   7  (23) FOW:  10-1
- NV Knight                                          run out (RC Russell)   5  (19) FOW:  16-2
- AJ Stewart                                             b. Shahid Afridi  64  (87) FOW: 144-3
- GP Thorpe                              st. †RC Russell b. Shahid Afridi  80 (115) FOW: 194-4
- MA Butcher                                c. SR Tendulkar b. L Klusener  33  (58) FOW: 220-5
-†AJ Stewart                                      c. †RC Russell b. B Lee  47  (85) FOW: 285-9
- MA Ealham                                                 lbw. b. B Lee  12  (57) FOW: 258-6
- D Gough                                     c. SR Tendulkar b. CH Gayle   1   (3) FOW: 259-7
- ARC Fraser                                    c. Shahid Afridi b. B Lee   7   (6) FOW: 270-8
- AR Caddick                                    c. Shoaib Akhtar b. B Lee   6  (13) FOW: 288ao
- PCR Tufnell                                                     not out   1   (5) FOW:      
-                                              5b, 13lb, 1w, 6nb - extras  25
-                                                  (all out - 77.2 overs) 288   (3.72 RPO)
-                       O      M     R    W  
- Shoaib Akhtar         11  -  1 -  25 -  0   2.27 RPO       Fast     
- B Lee                21.2 -  2 -  81 -  5   3.80 RPO       Fast     
- L Klusener            11  -  0 -  45 -  1   4.09 RPO       Fast     
- GL Jessop             5   -  0 -  15 -  0   3.00 RPO     PartFast   
- NJ Astle              9   -  0 -  35 -  0   3.89 RPO     PartMed    
- Shahid Afridi         11  -  0 -  44 -  2   4.00 RPO     OpenSpin   
- CH Gayle              9   -  0 -  28 -  1   3.11 RPO   OpenPartSpin 
-
-17:12 Super Stars 0-0 (0.0 overs) trail by 288      Start of innings
-17:48 Super Stars 28-1 (9.3 overs) trail by 260     CH Gayle c. GP Thorpe b. AR Caddick 15 (33b) 0x4 0x6 - partnership 28  - new batsman IVA Richards
-18:03 Super Stars 39-1 (12.0 overs) trail by 249    Close of play: DL Haynes 16* (33b), IVA Richards 8* (6b)
+15:40 World All-Time XI 200-3 (60.3 overs)          DG Bradman 56* (81b), SB Smith 16* (54b).
+16:24 World All-Time XI 215-4 (66.3 overs)          SB Smith c. BC Lara b. M Muralitharan 21 (72b) 1x4 0x6 - partnership 69  - new batsman KC Sangakkara
+16:48 World All-Time XI 235-5 (72.6 overs)          KC Sangakkara c. †KC Sangakkara b. GD McGrath 9 (18b) 1x4 0x6 - partnership 20  - new batsman GS Sobers
+17:00 World All-Time XI 242-5 (75.4 overs)          GS Sobers dropped by SK Warne off CL Cairns on 2*
+17:04 World All-Time XI 250-5 (76.3 overs)          DG Bradman 88* (129b), GS Sobers 4* (12b).
+17:36 World All-Time XI 282-5 (84.4 overs)          DG Bradman 103* (148b) 10x4 0x6
+17:36 World All-Time XI 286-5 (84.5 overs)          50 partnership between DG Bradman and GS Sobers.
+17:56 World All-Time XI 300-5 (89.1 overs)          DG Bradman 114* (161b), GS Sobers 28* (56b).
+18:00 World All-Time XI 305-5 (90.0 overs)          Close of play: DG Bradman 118* (165b), GS Sobers 29* (57b)
 
 Day 2
-11:04 Super Stars 52-1 (13.1 overs) trail by 236    DL Haynes 23* (37b), IVA Richards 13* (10b).
-11:28 Super Stars 78-1 (19.5 overs) trail by 210    50 partnership between DL Haynes and IVA Richards.
-11:40 Super Stars 87-2 (22.1 overs) trail by 201    DL Haynes c. †AJ Stewart b. D Gough 49 (72b) 2x4 1x6 - partnership 59  - new batsman SR Tendulkar
-11:48 Super Stars 100-2 (24.3 overs) trail by 188   IVA Richards 25* (33b), SR Tendulkar 9* (10b).
-12:08 Super Stars 114-3 (29.4 overs) trail by 174   SR Tendulkar lbw. b. MA Ealham 17 (29b) 1x4 0x6 - partnership 27  - new batsman Shahid Afridi
-12:16 Super Stars 122-4 (31.5 overs) trail by 166   Shahid Afridi c. ARC Fraser b. MA Ealham 4 (5b) 0x4 0x6 - partnership 8  - new batsman NJ Astle
-12:44 Super Stars 137-5 (38.5 overs) trail by 151   NJ Astle lbw. b. PCR Tufnell 8 (29b) 0x4 0x6 - partnership 15  - new batsman L Klusener
-13:00 Super Stars 141-5 (42.0 overs) trail by 147   Lunch: IVA Richards 43* (72b), L Klusener 3* (13b)
+11:20 World All-Time XI 325-6 (95.5 overs)          DG Bradman st. †KC Sangakkara b. SK Warne 129 (188b) 13x4 0x6 - partnership 90  - new batsman Imran Khan
+11:40 World All-Time XI 348-6 (100.6 overs)         GS Sobers 50* (83b) 4x4 0x6
+11:44 World All-Time XI 350-6 (101.3 overs)         GS Sobers 51* (84b), Imran Khan 11* (20b).
+11:48 World All-Time XI 352-7 (102.4 overs)         GS Sobers c. †KC Sangakkara b. GD McGrath 52 (89b) 4x4 0x6 - partnership 27  - new batsman GA Lohmann
+11:56 World All-Time XI 354-8 (104.2 overs)         GA Lohmann b. GD McGrath 2 (10b) 0x4 0x6 - partnership 2  - new batsman SK Warne
+12:20 World All-Time XI 376-8 (110.4 overs)         SK Warne dropped by M Muralitharan off GD McGrath on 6*
+12:28 World All-Time XI 382-8 (112.2 overs)         SK Warne dropped by GD McGrath off GD McGrath on 8*
+12:40 World All-Time XI 390-9 (115.2 overs)         Imran Khan c. †KC Sangakkara b. SK Warne 35 (49b) 4x4 0x6 - partnership 36  - new batsman M Muralitharan
+12:48 World All-Time XI 402-9 (117.2 overs)         SK Warne 23* (45b), M Muralitharan 2* (6b).
+12:48 World All-Time XI 403-10 (117.5 overs)        SK Warne c. ML Hayden b. SK Warne 23 (46b) 1x4 0x6 - partnership 13 
+12:48 World All-Time XI 403-10 (117.5 overs)        SK Warne 34.5 -  4 - 111 -  5
+12:48 World All-Time XI 403-10 (117.5 overs)        End of innings - SK Warne 23 (46b), M Muralitharan 3* (8b).
 
-13:44 Super Stars 145-6 (43.1 overs) trail by 143   IVA Richards c. †AJ Stewart b. AR Caddick 43 (73b) 1x4 0x6 - partnership 8  - new batsman RC Russell
-13:52 Super Stars 151-6 (45.3 overs) trail by 137   L Klusener 12* (27b), RC Russell 0* (6b).
-13:56 Super Stars 151-7 (46.1 overs) trail by 137   L Klusener lbw. b. ARC Fraser 12 (28b) 1x4 0x6 - partnership 6  - new batsman GL Jessop
-14:20 Super Stars 176-8 (52.5 overs) trail by 112   RC Russell c. †AJ Stewart b. D Gough 12 (28b) 1x4 0x6 - partnership 25  - new batsman B Lee
-15:00 Super Stars 200-8 (62.2 overs) trail by 88    GL Jessop 28* (47b), B Lee 8* (31b).
-15:32 Super Stars 226-8 (70.2 overs) trail by 62    50 partnership between GL Jessop and B Lee.
-15:36 Super Stars 232-9 (71.1 overs) trail by 56    GL Jessop lbw. b. PCR Tufnell 42 (74b) 2x4 0x6 - partnership 56  - new batsman Shoaib Akhtar
-15:40 Super Stars 234-9 (72.0 overs) trail by 54    Tea: B Lee 27* (59b), Shoaib Akhtar 1* (3b)
-
-16:04 Super Stars 235-10 (73.1 overs) trail by 53   B Lee c. AJ Stewart b. AR Caddick 28 (63b) 3x4 0x6 - partnership 3 
-16:04 Super Stars 235-10 (73.1 overs) trail by 53   End of innings - B Lee 28 (63b), Shoaib Akhtar 1* (6b).
-
- Super Stars - 1st innings
- DL Haynes                                     c. †AJ Stewart b. D Gough  49  (72) FOW:  87-2
- CH Gayle                                     c. GP Thorpe b. AR Caddick  15  (33) FOW:  28-1
-*IVA Richards                               c. †AJ Stewart b. AR Caddick  43  (73) FOW: 145-6
- SR Tendulkar                                          lbw. b. MA Ealham  17  (29) FOW: 114-3
- Shahid Afridi                                c. ARC Fraser b. MA Ealham   4   (5) FOW: 122-4
- NJ Astle                                            lbw. b. PCR Tufnell   8  (29) FOW: 137-5
- L Klusener                                           lbw. b. ARC Fraser  12  (28) FOW: 151-7
-†RC Russell                                    c. †AJ Stewart b. D Gough  12  (28) FOW: 176-8
- GL Jessop                                           lbw. b. PCR Tufnell  42  (74) FOW: 232-9
- B Lee                                       c. AJ Stewart b. AR Caddick  28  (63) FOW: 235ao
- Shoaib Akhtar                                                   not out   1   (6) FOW:      
-                                                       3lb, 1nb - extras   4
-                                                  (all out - 73.1 overs) 235   (3.21 RPO)
+ World All-Time XI - 1st innings
+ L Hutton                                         c. BC Lara b. SK Warne  69 (121) FOW: 136-2
+ JB Hobbs                                 c. †KC Sangakkara b. CL Cairns  47 (105) FOW: 107-1
+ DG Bradman                               st. †KC Sangakkara b. SK Warne 129 (188) FOW: 325-6
+*RT Ponting                                             lbw. b. SK Warne   4   (5) FOW: 146-3
+ SB Smith                                   c. BC Lara b. M Muralitharan  21  (72) FOW: 215-4
+†KC Sangakkara                           c. †KC Sangakkara b. GD McGrath   9  (18) FOW: 235-5
+ GS Sobers                               c. †KC Sangakkara b. GD McGrath  52  (89) FOW: 352-7
+ Imran Khan                                c. †KC Sangakkara b. SK Warne  35  (49) FOW: 390-9
+ GA Lohmann                                                b. GD McGrath   2  (10) FOW: 354-8
+ SK Warne                                       c. ML Hayden b. SK Warne  23  (46) FOW: 403ao
+ M Muralitharan                                                  not out   3   (8) FOW:      
+                                               1b, 4lb, 1w, 3nb - extras   9
+                                                 (all out - 117.5 overs) 403   (3.42 RPO)
                        O      M     R    W  
- ARC Fraser            15  -  0 -  51 -  1   3.40 RPO       Fast     
- D Gough               17  -  0 -  54 -  2   3.18 RPO       Fast     
- AR Caddick           15.1 -  2 -  53 -  3   3.49 RPO       Fast     
- MA Ealham             12  -  1 -  33 -  2   2.75 RPO       Fast     
- PCR Tufnell           14  -  1 -  41 -  2   2.93 RPO       Spin     
+ GD McGrath            27  -  2 -  91 -  3   3.37 RPO       Fast     
+ CL Cairns             21  -  1 -  75 -  1   3.57 RPO       Fast     
+ JH Kallis             19  -  0 -  80 -  0   4.21 RPO       Fast     
+ M Muralitharan        16  -  0 -  44 -  1   2.75 RPO       Spin     
+ SK Warne             34.5 -  4 - 111 -  5   3.19 RPO       Spin     
 
-16:08 1990s England 0-0 (0.0 overs) lead by 53      Start of innings
-16:24 1990s England 9-1 (4.4 overs) lead by 62      NV Knight c. NJ Astle b. Shoaib Akhtar 5 (18b) 0x4 0x6 - partnership 9  - new batsman AJ Stewart
-17:00 1990s England 33-2 (13.1 overs) lead by 86    AJ Stewart c. SR Tendulkar b. L Klusener 18 (32b) 2x4 0x6 - partnership 24  - new batsman GP Thorpe
-17:08 1990s England 50-2 (15.6 overs) lead by 103   MA Atherton 21* (41b), GP Thorpe 1* (6b).
-17:40 1990s England 83-2 (23.1 overs) lead by 136   50 partnership between MA Atherton and GP Thorpe.
-17:52 1990s England 100-2 (26.5 overs) lead by 153  MA Atherton 43* (74b), GP Thorpe 25* (38b).
-18:01 1990s England 109-2 (28.0 overs) lead by 162  Close of play: MA Atherton 44* (78b), GP Thorpe 32* (42b)
+12:52 All-time World XI 0-0 (0.0 overs) trail by 403 Start of innings
+13:00 All-time World XI 2-0 (2.0 overs) trail by 401 Lunch: ML Hayden 2* (7b), DG Bradman 0* (5b)
+
+13:00 All-time World XI 3-0 (2.0 overs) trail by 400 Lunch: ML Hayden 2* (8b), DG Bradman 0* (5b)
+
+14:20 All-time World XI 51-0 (12.6 overs) trail by 352 ML Hayden 23* (45b), DG Bradman 21* (35b).
+14:20 All-time World XI 51-0 (12.6 overs) trail by 352 50 partnership between ML Hayden and DG Bradman.
+14:56 All-time World XI 88-1 (21.4 overs) trail by 315 ML Hayden b. SK Warne 37 (68b) 4x4 0x6 - partnership 88  - new batsman SR Tendulkar
+15:12 All-time World XI 101-1 (25.2 overs) trail by 302 DG Bradman 49* (77b), SR Tendulkar 5* (12b).
+15:12 All-time World XI 102-1 (25.4 overs) trail by 301 DG Bradman 50* (79b) 5x4 0x6
+15:16 All-time World XI 103-2 (26.3 overs) trail by 300 SR Tendulkar b. M Muralitharan 6 (16b) 0x4 0x6 - partnership 15  - new batsman BC Lara
+15:40 All-time World XI 114-2 (32.0 overs) trail by 289 Tea: DG Bradman 53* (93b), BC Lara 7* (21b)
+
+16:36 All-time World XI 150-2 (41.1 overs) trail by 253 DG Bradman 70* (115b), BC Lara 25* (54b).
+16:36 All-time World XI 153-2 (41.6 overs) trail by 250 50 partnership between DG Bradman and BC Lara.
+17:44 All-time World XI 206-2 (58.3 overs) trail by 197 100 partnership between DG Bradman and BC Lara.
+17:48 All-time World XI 208-2 (59.3 overs) trail by 195 BC Lara 50* (107b) 3x4 0x6
+17:52 All-time World XI 213-2 (60.4 overs) trail by 190 DG Bradman 101* (179b) 9x4 0x6
+18:03 All-time World XI 218-2 (62.0 overs) trail by 185 Close of play: DG Bradman 102* (185b), BC Lara 55* (111b)
 
 Day 3
-11:24 1990s England 124-2 (34.3 overs) lead by 177  MA Atherton 53* (96b) 5x4 0x6
-11:40 1990s England 133-2 (38.6 overs) lead by 186  100 partnership between MA Atherton and GP Thorpe.
-11:56 1990s England 140-3 (42.1 overs) lead by 193  MA Atherton c. SR Tendulkar b. L Klusener 58 (118b) 5x4 0x6 - partnership 107  - new batsman MA Butcher
-11:56 1990s England 142-3 (42.3 overs) lead by 195  GP Thorpe 50* (88b) 2x4 0x6
-12:08 1990s England 151-3 (45.4 overs) lead by 204  GP Thorpe 56* (94b), MA Butcher 4* (14b).
-12:24 1990s England 158-4 (49.3 overs) lead by 211  GP Thorpe c. NJ Astle b. B Lee 60 (109b) 2x4 0x6 - partnership 18  - new batsman AJ Stewart
-12:52 1990s England 201-4 (56.5 overs) lead by 254  MA Butcher 21* (37b), AJ Stewart 20* (29b).
-12:56 1990s England 201-5 (57.1 overs) lead by 254  MA Butcher c. †RC Russell b. GL Jessop 21 (38b) 2x4 0x6 - partnership 43  - new batsman MA Ealham
-13:00 1990s England 201-5 (58.0 overs) lead by 254  Lunch: AJ Stewart 20* (30b), MA Ealham 0* (5b)
+11:20 All-time World XI 238-3 (67.6 overs) trail by 165 DG Bradman lbw. b. M Muralitharan 110 (202b) 9x4 0x6 - partnership 135  - new batsman RT Ponting
+11:28 All-time World XI 250-3 (69.6 overs) trail by 153 BC Lara 68* (139b), RT Ponting 8* (5b).
+11:32 All-time World XI 251-3 (70.2 overs) trail by 152 RT Ponting dropped by GS Sobers off SK Warne on 8*
+11:52 All-time World XI 265-4 (75.5 overs) trail by 138 BC Lara b. M Muralitharan 72 (149b) 3x4 0x6 - partnership 27  - new batsman KC Sangakkara
+12:32 All-time World XI 300-4 (85.1 overs) trail by 103 RT Ponting 44* (66b), KC Sangakkara 9* (21b).
+12:48 All-time World XI 314-4 (89.1 overs) trail by 89 RT Ponting 50* (79b) 5x4 1x6
+12:48 All-time World XI 318-4 (89.3 overs) trail by 85 50 partnership between RT Ponting and KC Sangakkara.
+13:00 All-time World XI 334-4 (92.0 overs) trail by 69 Lunch: RT Ponting 60* (87b), KC Sangakkara 27* (41b)
 
-14:16 1990s England 251-5 (67.2 overs) lead by 304  AJ Stewart 51* (61b) 3x4 0x6
-14:16 1990s England 251-5 (67.2 overs) lead by 304  AJ Stewart 51* (61b), MA Ealham 15* (30b).
-14:16 1990s England 251-5 (67.2 overs) lead by 304  50 partnership between AJ Stewart and MA Ealham.
-14:36 1990s England 268-6 (72.3 overs) lead by 321  MA Ealham b. Shahid Afridi 25 (51b) 0x4 0x6 - partnership 67  - new batsman D Gough
-14:40 1990s England 272-7 (73.6 overs) lead by 325  AJ Stewart lbw. b. Shoaib Akhtar 60 (76b) 3x4 0x6 - partnership 4  - new batsman ARC Fraser
-14:48 1990s England 279-8 (75.1 overs) lead by 332  ARC Fraser c. L Klusener b. Shoaib Akhtar 4 (6b) 1x4 0x6 - partnership 7  - new batsman AR Caddick
-14:48 1990s England 281-8 (75.5 overs) lead by 334  AR Caddick dropped by CH Gayle off Shoaib Akhtar on 1*
-14:56 1990s England 295-9 (77.5 overs) lead by 348  AR Caddick hit wicket b. Shoaib Akhtar 11 (11b) 2x4 0x6 - partnership 16  - new batsman PCR Tufnell
-15:00 1990s England 301-9 (78.3 overs) lead by 354  D Gough 14* (13b), PCR Tufnell 1* (2b).
-15:00 1990s England 302-10 (78.6 overs) lead by 355 PCR Tufnell c. †RC Russell b. Shahid Afridi 1 (3b) 0x4 0x6 - partnership 7 
-15:04 1990s England 302-10 (79.0 overs) lead by 355 End of innings - D Gough 14* (15b), PCR Tufnell 1 (3b).
+13:52 All-time World XI 350-4 (95.1 overs) trail by 53 RT Ponting 69* (95b), KC Sangakkara 34* (52b).
+14:00 All-time World XI 366-4 (97.1 overs) trail by 37 100 partnership between RT Ponting and KC Sangakkara.
+14:00 All-time World XI 371-4 (97.5 overs) trail by 32 KC Sangakkara 50* (65b) 6x4 1x6
+14:28 All-time World XI 402-4 (104.2 overs) trail by 1 RT Ponting 99* (125b), KC Sangakkara 56* (77b).
+14:28 All-time World XI 404-4 (104.6 overs) lead by 1 RT Ponting 101* (129b) 9x4 1x6
+14:40 All-time World XI 416-4 (107.4 overs) lead by 13 150 partnership between RT Ponting and KC Sangakkara.
+14:48 All-time World XI 419-5 (109.3 overs) lead by 16 KC Sangakkara c. †KC Sangakkara b. M Muralitharan 63 (92b) 6x4 1x6 - partnership 154  - new batsman JH Kallis
+15:20 All-time World XI 451-5 (117.1 overs) lead by 48 RT Ponting 123* (165b), JH Kallis 12* (24b).
+15:32 All-time World XI 470-5 (120.3 overs) lead by 67 50 partnership between RT Ponting and JH Kallis.
+15:40 All-time World XI 474-5 (122.0 overs) lead by 71 Tea: RT Ponting 142* (186b), JH Kallis 12* (32b)
 
- 1990s England - 2nd innings
-*MA Atherton                               c. SR Tendulkar b. L Klusener  58 (118) FOW: 140-3
- NV Knight                                  c. NJ Astle b. Shoaib Akhtar   5  (18) FOW:   9-1
- AJ Stewart                                c. SR Tendulkar b. L Klusener  18  (32) FOW:  33-2
- GP Thorpe                                          c. NJ Astle b. B Lee  60 (109) FOW: 158-4
- MA Butcher                                  c. †RC Russell b. GL Jessop  21  (38) FOW: 201-5
-†AJ Stewart                                        lbw. b. Shoaib Akhtar  60  (76) FOW: 272-7
- MA Ealham                                              b. Shahid Afridi  25  (51) FOW: 268-6
- D Gough                                                         not out  14  (15) FOW:      
- ARC Fraser                               c. L Klusener b. Shoaib Akhtar   4   (6) FOW: 279-8
- AR Caddick                                  hit wicket b. Shoaib Akhtar  11  (11) FOW: 295-9
- PCR Tufnell                             c. †RC Russell b. Shahid Afridi   1   (3) FOW: 302ao
-                                                  20b, 2lb, 3nb - extras  25
-                                                    (all out - 79 overs) 302   (3.82 RPO)
-                       O      M     R    W  
- Shoaib Akhtar         17  -  2 -  50 -  4   2.94 RPO       Fast     
- B Lee                 16  -  2 -  47 -  1   2.94 RPO       Fast     
- L Klusener            14  -  2 -  27 -  2   1.93 RPO       Fast     
- GL Jessop             5   -  1 -  19 -  1   3.80 RPO     PartFast   
- NJ Astle              7   -  0 -  37 -  0   5.29 RPO     PartMed    
- Shahid Afridi         14  -  1 -  75 -  2   5.36 RPO     OpenSpin   
- CH Gayle              6   -  0 -  25 -  0   4.17 RPO   OpenPartSpin 
-
-15:04 Super Stars 0-0 (0.0 overs) target 356        Start of innings
-15:16 Super Stars 6-0 (3.4 overs) target 356        CH Gayle dropped by MA Atherton off D Gough on 2*
-15:40 Super Stars 17-0 (9.0 overs) target 356       Tea: DL Haynes 6* (19b), CH Gayle 11* (35b)
-
-16:32 Super Stars 50-0 (17.1 overs) target 356      DL Haynes 28* (52b), CH Gayle 18* (51b).
-16:32 Super Stars 50-0 (17.1 overs) target 356      50 partnership between DL Haynes and CH Gayle.
-17:08 Super Stars 98-0 (26.2 overs) target 356      DL Haynes 52* (81b) 6x4 0x6
-17:12 Super Stars 101-0 (27.4 overs) target 356     DL Haynes 55* (87b), CH Gayle 42* (79b).
-17:12 Super Stars 101-0 (27.4 overs) target 356     100 partnership between DL Haynes and CH Gayle.
-17:28 Super Stars 110-0 (31.3 overs) target 356     CH Gayle 50* (93b) 2x4 1x6
-18:03 Super Stars 138-0 (39.0 overs) target 356     Close of play: DL Haynes 70* (119b), CH Gayle 64* (115b)
+16:24 All-time World XI 492-5 (128.3 overs) lead by 89 RT Ponting 150* (205b) 13x4 1x6
+16:28 All-time World XI 492-5 (129.1 overs) lead by 89 JH Kallis dropped by RT Ponting off SK Warne on 22*
+16:32 All-time World XI 500-5 (130.6 overs) lead by 97 RT Ponting 157* (212b), JH Kallis 23* (60b).
+16:44 All-time World XI 520-5 (133.3 overs) lead by 117 100 partnership between RT Ponting and JH Kallis.
+17:08 All-time World XI 550-5 (139.4 overs) lead by 147 RT Ponting 187* (240b), JH Kallis 43* (84b).
+17:20 All-time World XI 565-5 (142.6 overs) lead by 162 JH Kallis 52* (93b) 7x4 0x6
+17:24 All-time World XI 569-5 (143.1 overs) lead by 166 150 partnership between RT Ponting and JH Kallis.
+17:28 All-time World XI 574-5 (144.6 overs) lead by 171 RT Ponting 201* (259b) 20x4 1x6
+17:36 All-time World XI 580-6 (146.3 overs) lead by 177 RT Ponting lbw. b. M Muralitharan 204 (264b) 20x4 1x6 - partnership 161  - new batsman CL Cairns
+17:36 All-time World XI 580-6 (146.3 overs) lead by 177 M Muralitharan 40.3 -  2 - 120 -  5
+17:40 All-time World XI 580-7 (147.1 overs) lead by 177 JH Kallis c. RT Ponting b. Imran Khan 55 (102b) 7x4 0x6 - partnership 0  - new batsman SK Warne
+17:44 All-time World XI 585-8 (148.3 overs) lead by 182 SK Warne b. M Muralitharan 2 (7b) 0x4 0x6 - partnership 5  - new batsman GD McGrath
+17:44 All-time World XI 585-8 (148.3 overs) lead by 182 M Muralitharan 41.3 -  2 - 120 -  6
+17:48 All-time World XI 588-8 (149.2 overs) lead by 185 GD McGrath dropped by JB Hobbs off Imran Khan on 1*
+17:52 All-time World XI 602-8 (150.2 overs) lead by 199 CL Cairns 14* (9b), GD McGrath 6* (6b).
+18:03 All-time World XI 607-8 (152.0 overs) lead by 204 Close of play: CL Cairns 17* (12b), GD McGrath 8* (13b)
 
 Day 4
-11:20 Super Stars 150-0 (44.4 overs) target 356     DL Haynes 76* (133b), CH Gayle 70* (135b).
-11:20 Super Stars 150-0 (44.4 overs) target 356     150 partnership between DL Haynes and CH Gayle.
-11:28 Super Stars 153-1 (46.2 overs) target 356     CH Gayle c. †AJ Stewart b. PCR Tufnell 71 (140b) 3x4 1x6 - partnership 153  - new batsman IVA Richards
-12:08 Super Stars 187-1 (56.5 overs) target 356     DL Haynes 100* (173b) 11x4 0x6
-12:16 Super Stars 200-1 (58.6 overs) target 356     DL Haynes 111* (182b), IVA Richards 14* (32b).
-12:20 Super Stars 203-1 (59.6 overs) target 356     50 partnership between DL Haynes and IVA Richards.
-12:56 Super Stars 234-2 (68.5 overs) target 356     DL Haynes c. MA Butcher b. PCR Tufnell 122 (210b) 13x4 0x6 - partnership 81  - new batsman SR Tendulkar
-13:00 Super Stars 236-2 (69.0 overs) target 356     Lunch: IVA Richards 37* (63b), SR Tendulkar 2* (1b)
+11:20 All-time World XI 628-9 (157.6 overs) lead by 225 GD McGrath c. L Hutton b. GA Lohmann 11 (32b) 1x4 0x6 - partnership 43  - new batsman M Muralitharan
+11:44 All-time World XI 649-10 (163.5 overs) lead by 246 CL Cairns b. GS Sobers 41 (43b) 3x4 0x6 - partnership 21 
+11:44 All-time World XI 649-10 (163.5 overs) lead by 246 End of innings - CL Cairns 41 (43b), M Muralitharan 11* (21b).
 
-13:52 Super Stars 250-2 (72.1 overs) target 356     IVA Richards 40* (73b), SR Tendulkar 11* (11b).
-13:56 Super Stars 254-3 (73.2 overs) target 356     SR Tendulkar lbw. b. GP Thorpe 12 (14b) 0x4 0x6 - partnership 20  - new batsman Shahid Afridi
-14:04 Super Stars 272-3 (75.0 overs) target 356     13 runs from the PCR Tufnell over. (Shahid Afridi 4 2 1 IVA Richards 2 4 .)
-14:08 Super Stars 280-3 (76.4 overs) target 356     IVA Richards 51* (90b) 4x4 0x6
-14:32 Super Stars 300-3 (82.3 overs) target 356     IVA Richards 59* (113b), Shahid Afridi 21* (19b).
-14:36 Super Stars 304-3 (83.1 overs) target 356     50 partnership between IVA Richards and Shahid Afridi.
-14:36 Super Stars 305-3 (83.3 overs) target 356     IVA Richards dropped by MA Ealham off D Gough on 60*
-15:12 Super Stars 339-4 (92.2 overs) target 356     Shahid Afridi c. †AJ Stewart b. AR Caddick 43 (48b) 4x4 0x6 - partnership 85  - new batsman NJ Astle
-15:28 Super Stars 350-4 (96.1 overs) target 356     IVA Richards 80* (154b), NJ Astle 5* (12b).
-15:36 Super Stars 357-4 (98.1 overs) target 356     End of innings - IVA Richards 83* (159b), NJ Astle 9* (19b).
-
- Super Stars - 2nd innings (Target: 356 in 219 overs)
- DL Haynes                                  c. MA Butcher b. PCR Tufnell 122 (210) FOW: 234-2
- CH Gayle                                  c. †AJ Stewart b. PCR Tufnell  71 (140) FOW: 153-1
-*IVA Richards                                                    not out  83 (159) FOW:      
- SR Tendulkar                                          lbw. b. GP Thorpe  12  (14) FOW: 254-3
- Shahid Afridi                              c. †AJ Stewart b. AR Caddick  43  (48) FOW: 339-4
- NJ Astle                                                        not out   9  (19) FOW:      
-                                                    9b, 7lb, 1w - extras  17
-                                                (4 wickets - 98.1 overs) 357   (3.64 RPO)
- Did not bat: L Klusener, RC Russell, GL Jessop, B Lee, Shoaib Akhtar
+ All-time World XI - 1st innings
+ ML Hayden                                                   b. SK Warne  37  (68) FOW:  88-1
+ DG Bradman                                       lbw. b. M Muralitharan 110 (202) FOW: 238-3
+ SR Tendulkar                                          b. M Muralitharan   6  (16) FOW: 103-2
+ BC Lara                                               b. M Muralitharan  72 (149) FOW: 265-4
+*RT Ponting                                       lbw. b. M Muralitharan 204 (264) FOW: 580-6
+†KC Sangakkara                       c. †KC Sangakkara b. M Muralitharan  63  (92) FOW: 419-5
+ JH Kallis                                   c. RT Ponting b. Imran Khan  55 (102) FOW: 580-7
+ CL Cairns                                                  b. GS Sobers  41  (43) FOW: 649ao
+ SK Warne                                              b. M Muralitharan   2   (7) FOW: 585-8
+ GD McGrath                                    c. L Hutton b. GA Lohmann  11  (32) FOW: 628-9
+ M Muralitharan                                                  not out  11  (21) FOW:      
+                                            14b, 10lb, 2w, 11nb - extras  37
+                                                 (all out - 163.5 overs) 649   (3.96 RPO)
                        O      M     R    W  
- ARC Fraser            18  -  2 -  63 -  0   3.50 RPO       Fast     
- D Gough               18  -  2 -  43 -  0   2.39 RPO       Fast     
- AR Caddick            15  -  1 -  63 -  1   4.20 RPO       Fast     
- MA Ealham             17  -  0 -  67 -  0   3.94 RPO       Fast     
- PCR Tufnell           23  -  1 -  87 -  2   3.78 RPO       Spin     
- GP Thorpe             5   -  0 -  11 -  1   2.20 RPO       Bat      
- MA Butcher           2.1  -  0 -  10 -  0   4.62 RPO       Bat      
+ GA Lohmann            26  -  2 - 109 -  1   4.19 RPO       Fast     
+ Imran Khan            27  -  0 - 103 -  1   3.81 RPO       Fast     
+ GS Sobers            24.5 -  1 - 106 -  1   4.27 RPO       Fast     
+ SK Warne              30  -  3 - 110 -  1   3.67 RPO       Spin     
+ M Muralitharan        47  -  3 - 138 -  6   2.94 RPO       Spin     
+ JB Hobbs              5   -  0 -  33 -  0   6.60 RPO     OpenBat    
+ DG Bradman            4   -  0 -  32 -  0   8.00 RPO       Bat      
 
- Super Stars (235, 357-4) beat 1990s England (288, 302) by 6 wickets
- Man of the Match: DL Haynes (Super Stars) (49, 122)
- Pace Factor: 0.86, Spin Factor: 0.90, Outfield Speed: 1.11
+11:48 World All-Time XI 0-0 (0.0 overs) trail by 246 Start of innings
+12:56 World All-Time XI 50-0 (17.4 overs) trail by 196 L Hutton 23* (58b), JB Hobbs 25* (49b).
+12:56 World All-Time XI 50-0 (17.4 overs) trail by 196 50 partnership between L Hutton and JB Hobbs.
+13:00 World All-Time XI 50-0 (18.0 overs) trail by 196 Lunch: L Hutton 23* (60b), JB Hobbs 25* (49b)
 
-Match Report: MA Atherton of 1990s England won the toss and batted first. The pitch was fair. In the first innings, 1990s England finished with 288 in 77.2 overs. AJ Stewart was bowled for 64, GP Thorpe was stumped for 80, and B Lee bowled well, finishing with 5-81, In reply, Super Stars scored 235 in 73.1 overs. DL Haynes top scored with 49, and AR Caddick took 3-53, so Super Stars trailed by 53. Batting third, 1990s England scored 302 in 79 overs. MA Atherton worked for 58, GP Thorpe scored 60, AJ Stewart scored a hard-hitting 60 from 76 balls, and Shoaib Akhtar bowled well, taking 4-50, setting a target of 356. Super Stars totalled 357-4 in 98.1 overs. DL Haynes was caught for 122, CH Gayle made 71, IVA Richards finished with 83*, In the end, Super Stars (235, 357-4) beat 1990s England (288, 302) by 6 wickets. The man of the match was DL Haynes of Super Stars. 
+13:48 World All-Time XI 54-1 (20.3 overs) trail by 192 JB Hobbs b. SK Warne 28 (62b) 2x4 0x6 - partnership 54  - new batsman DG Bradman
+14:52 World All-Time XI 102-1 (36.5 overs) trail by 144 L Hutton 38* (105b), DG Bradman 32* (57b).
+14:56 World All-Time XI 104-1 (37.4 overs) trail by 142 50 partnership between L Hutton and DG Bradman.
+15:12 World All-Time XI 112-2 (41.2 overs) trail by 134 L Hutton lbw. b. JH Kallis 44 (125b) 2x4 0x6 - partnership 58  - new batsman RT Ponting
+15:28 World All-Time XI 124-3 (45.3 overs) trail by 122 RT Ponting lbw. b. JH Kallis 7 (15b) 0x4 0x6 - partnership 12  - new batsman SB Smith
+15:40 World All-Time XI 135-3 (48.0 overs) trail by 111 Tea: DG Bradman 48* (85b), SB Smith 4* (4b)
+
+16:08 World All-Time XI 139-3 (50.1 overs) trail by 107 DG Bradman 50* (94b) 4x4 0x6
+16:08 World All-Time XI 139-4 (50.2 overs) trail by 107 SB Smith c. SK Warne b. M Muralitharan 5 (9b) 0x4 0x6 - partnership 15  - new batsman KC Sangakkara
+16:36 World All-Time XI 150-4 (57.3 overs) trail by 96 DG Bradman 53* (105b), KC Sangakkara 8* (32b).
+17:32 World All-Time XI 179-5 (71.4 overs) trail by 67 KC Sangakkara c. †KC Sangakkara b. GD McGrath 21 (79b) 2x4 0x6 - partnership 40  - new batsman GS Sobers
+17:48 World All-Time XI 200-5 (75.4 overs) trail by 46 DG Bradman 76* (155b), GS Sobers 12* (13b).
+18:01 World All-Time XI 215-5 (78.0 overs) trail by 31 Close of play: DG Bradman 86* (165b), GS Sobers 17* (17b)
+
+Day 5
+11:12 World All-Time XI 229-5 (81.5 overs) trail by 17 50 partnership between DG Bradman and GS Sobers.
+11:16 World All-Time XI 233-5 (82.3 overs) trail by 13 DG Bradman 101* (184b) 8x4 0x6
+11:40 World All-Time XI 246-6 (88.3 overs) scores level GS Sobers c. †KC Sangakkara b. GD McGrath 26 (45b) 0x4 0x6 - partnership 67  - new batsman Imran Khan
+11:48 World All-Time XI 251-6 (90.4 overs) lead by 5 DG Bradman 112* (208b), Imran Khan 1* (5b).
+12:04 World All-Time XI 259-7 (94.6 overs) lead by 13 DG Bradman run out (KC Sangakkara) 116 (223b) 8x4 0x6 - partnership 13  - new batsman GA Lohmann
+12:08 World All-Time XI 259-8 (95.2 overs) lead by 13 Imran Khan c. CL Cairns b. M Muralitharan 5 (18b) 0x4 0x6 - partnership 0  - new batsman SK Warne
+12:08 World All-Time XI 259-9 (95.3 overs) lead by 13 SK Warne lbw. b. M Muralitharan 0 (1b) 0x4 0x6 - partnership 0  - new batsman M Muralitharan
+12:16 World All-Time XI 261-10 (97.3 overs) lead by 15 M Muralitharan lbw. b. M Muralitharan 1 (9b) 0x4 0x6 - partnership 2 
+12:16 World All-Time XI 261-10 (97.3 overs) lead by 15 End of innings - GA Lohmann 1* (3b), M Muralitharan 1 (9b).
+
+ World All-Time XI - 2nd innings
+ L Hutton                                              lbw. b. JH Kallis  44 (125) FOW: 112-2
+ JB Hobbs                                                    b. SK Warne  28  (62) FOW:  54-1
+ DG Bradman                                      run out (KC Sangakkara) 116 (223) FOW: 259-7
+*RT Ponting                                            lbw. b. JH Kallis   7  (15) FOW: 124-3
+ SB Smith                                  c. SK Warne b. M Muralitharan   5   (9) FOW: 139-4
+†KC Sangakkara                           c. †KC Sangakkara b. GD McGrath  21  (79) FOW: 179-5
+ GS Sobers                               c. †KC Sangakkara b. GD McGrath  26  (45) FOW: 246-6
+ Imran Khan                               c. CL Cairns b. M Muralitharan   5  (18) FOW: 259-8
+ GA Lohmann                                                      not out   1   (3) FOW:      
+ SK Warne                                         lbw. b. M Muralitharan   0   (1) FOW: 259-9
+ M Muralitharan                                   lbw. b. M Muralitharan   1   (9) FOW: 261ao
+                                                       3lb, 4nb - extras   7
+                                                  (all out - 97.3 overs) 261   (2.68 RPO)
+                       O      M     R    W  
+ GD McGrath            22  -  7 -  46 -  2   2.09 RPO       Fast     
+ CL Cairns             19  -  3 -  69 -  0   3.63 RPO       Fast     
+ JH Kallis             16  -  2 -  51 -  2   3.19 RPO       Fast     
+ M Muralitharan       24.3 -  3 -  59 -  4   2.41 RPO       Spin     
+ SK Warne              16  -  2 -  33 -  1   2.06 RPO       Spin     
+
+12:20 All-time World XI 0-0 (0.0 overs) target 16   Start of innings
+12:40 All-time World XI 16-0 (5.1 overs) target 16  End of innings - ML Hayden 6* (20b), DG Bradman 10* (11b).
+
+ All-time World XI - 2nd innings (Target: 16 in 70 overs)
+ ML Hayden                                                       not out   6  (20) FOW:      
+ DG Bradman                                                      not out  10  (11) FOW:      
+                                                                    extras 0
+                                                  (0 wickets - 5.1 overs) 16   (3.10 RPO)
+ Did not bat: SR Tendulkar, BC Lara, RT Ponting, KC Sangakkara, JH Kallis, CL Cairns, SK Warne, GD McGrath, M Muralitharan
+                       O      M     R    W  
+ GA Lohmann            3   -  1 -   2 -  0   0.67 RPO       Fast     
+ Imran Khan           2.1  -  1 -  14 -  0   6.46 RPO       Fast     
+
+ All-time World XI (649, 16-0) beat World All-Time XI (403, 261) by 10 wickets
+ Man of the Match: RT Ponting (All-time World XI) (204)
+ Pace Factor: 1.00, Spin Factor: 1.01, Outfield Speed: 1.00
+
+Match Report: RT Ponting of World All-Time XI won the toss and batted first. The pitch appeared to be fair. In the first innings, World All-Time XI scored 403 in 117.5 overs. L Hutton contributed a good 69, DG Bradman scored 129, GS Sobers contributed 52, GD McGrath took 3-91, and SK Warne worked effectively, taking 5-111, In reply, All-time World XI scored 649 in 163.5 overs. DG Bradman finished with 110, BC Lara grinded to 72, RT Ponting reached a hard-hitting 204, KC Sangakkara was caught for 63, JH Kallis finished with 55, and M Muralitharan worked magnificantly, with figures of 6-138, meaning that All-time World XI led by 246. Batting third, World All-Time XI made 261 in 97.3 overs. DG Bradman finished with 116, and M Muralitharan bowled smartly, with figures of 4-59, setting a target of 16. All-time World XI made 16-0 in 5.1 overs. DG Bradman made a dominant 10*, In the end, All-time World XI (649, 16-0) beat World All-Time XI (403, 261) by 10 wickets. The man of the match was RT Ponting of All-time World XI. 
