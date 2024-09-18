@@ -974,7 +974,7 @@ class test:
 		            self.rpo = float(x[1])
 
 	def settings (self):
-		with open ('settings.txt') as f:
+		with open ('variables/settings.txt') as f:
 			a = []
 			for line in f:
 				if line[0] == '#' or line == '': continue
