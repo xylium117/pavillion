@@ -2,7 +2,7 @@ import random
 
 nations = ['england', 'australia', 'southafrica', 'westindies', 'newzealand', 'india', 'pakistan', 'srilanka', 'zimbabwe', 'bangladesh', 'afghanistan', 'ireland']
 
-h = open ('alldata.txt','w')
+h = open ('variables/alldata.txt', 'w')
 h.close()
 
 g = open('data/era/dob.txt', 'w')
@@ -236,7 +236,7 @@ for i in nations:
         
     filename = ('data/'+ str(country) + 'data.txt')
     g = open(filename,'w')
-    h = open ('alldata.txt','a')
+    h = open ('variables/alldata.txt', 'a')
     for i in range (0, len(Players)):
         g.write(str(Players[i]))
         g.write('\n')
