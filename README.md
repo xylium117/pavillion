@@ -12,6 +12,7 @@ An interactive cricket simulator that allows you to simulate cricket matches usi
 - Features 📂
 - Getting Started 🚀
 - Contributing 🤝
+- Roadmap 📈
 - License 📝
 
 ## Overview 🌟
@@ -73,7 +74,7 @@ Contributions are welcome! If you have any improvements, bug fixes, or new proje
 4. Push to your branch (`git push origin feature-name`).
 5. Open a pull request and describe your changes. 🚀🔗
 
-## Roadmap
+## Roadmap 📈
 
 - [x] Add ICC All-Time teams in presets
 - [x] Fix bit-parsing error
