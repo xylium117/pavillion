@@ -189,7 +189,7 @@ def scenario (t, m):
 
 	switch = []
 	if m == 't':
-		q = open('switch.txt', 'r')
+		q = open('variables/switch.txt', 'r')
 		for line in q:
 			line = line.split(',')
 			switch.append(line)
