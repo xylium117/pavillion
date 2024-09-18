@@ -6,7 +6,7 @@ from historical import series
 
 def possible():
 	a, c = [], []
-	with open ('customteams.txt') as g:
+	with open ('variables/customteams.txt') as g:
 		for line in g: a.append(line[:-1])
 	n = 0
 	for i in a:
@@ -96,7 +96,7 @@ def make (x):
 			if add == 'y':
 				add = True
 
-	with open ('customteams.txt', 'a') as g:
+	with open ('variables/customteams.txt', 'a') as g:
 		g.write('\n')
 		g.write(str(x.name))
 		g.write('\n')
@@ -128,6 +128,3 @@ if __name__ == "__main__":
 		q.append(getcustom())
 
 	series (q[0].name, q[1].name, q[0].active, q[1].active)
-
-
-
