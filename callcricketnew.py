@@ -959,14 +959,14 @@ class test:
 		self.gameovers = round(self.gameovers)
 
 	def environment (self):
-		with open ('eradata.txt') as f:
+		with open ('data/era/eradata.txt') as f:
 			for line in f:
 			    line = line[:-1]
 			    x = line.split(', ')
 			    if int(x[0]) == self.year:
 			        self.base = float(x[1])
 
-		with open ('er_data.txt') as f:
+		with open ('data/era/er_data.txt') as f:
 		    for line in f:
 		        line = line[:-1]
 		        x = line.split(', ')
