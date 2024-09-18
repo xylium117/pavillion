@@ -8,11 +8,11 @@ An interactive cricket simulator that allows you to simulate cricket matches usi
 
 ## Table of Contents 📜
 
-- [Overview 🌟]
-- [Features 📂]
-- [Getting Started 🚀]
-- [Contributing 🤝]
-- [License 📝]
+- Overview 🌟
+- Features 📂
+- Getting Started 🚀
+- Contributing 🤝
+- License 📝
 
 ## Overview 🌟
 
