@@ -16,7 +16,7 @@ def era ():
 
 def tests():
 	realtests = []
-	q = open('testmatchlist.txt', 'r')
+	q = open('data/testmatchlist.txt', 'r')
 	for line in q:
 		#print (line[:-1])
 		line = line[1:-2].split(",")
@@ -2018,9 +2018,3 @@ if __name__ == "__main__":
 	summary (teams, allplayers, inns, bowls)
 	print ()
 	print(datetime.datetime.now()-x)
-
-
-
-
-
-
