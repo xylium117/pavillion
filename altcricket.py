@@ -3,7 +3,7 @@ from callcricketnew import test, innings, bowling, player, team, quickorder, lis
 
 def era ():
 	eradata = []
-	with open ('eradata.txt') as f:
+	with open ('data/era/eradata.txt') as f:
 		for line in f:
 		    line = line[:-1]
 		    #pass #print (line)
@@ -109,7 +109,7 @@ def scenario (t, m):
 		for x in t:
 			for y in x.players: allplayers.append(y)
 		dob = []
-		q = open('dob.txt', 'r')
+		q = open('data/era/dob.txt', 'r')
 		for line in q:
 			line = line[1:-2].split(',')
 			line[0] = line[0][1:-1]
