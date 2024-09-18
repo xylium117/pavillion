@@ -5,7 +5,7 @@ nations = ['england', 'australia', 'southafrica', 'westindies', 'newzealand', 'i
 h = open ('alldata.txt','w')
 h.close()
 
-g = open('dob.txt','w')
+g = open('data/era/dob.txt', 'w')
 g.close()
 
 for i in nations:
@@ -20,7 +20,7 @@ for i in nations:
 
     Years = []
 
-    with open ('eradata.txt') as f:
+    with open ('data/era/eradata.txt') as f:
         for line in f:
             line = line[:-1]
             #print (line)
@@ -29,7 +29,7 @@ for i in nations:
             #print (x)
 
     ERYears = []
-    with open ('er_data.txt') as f:
+    with open ('data/era/er_data.txt') as f:
         for line in f:
             line = line[:-1]
             #print (line)
@@ -102,7 +102,7 @@ for i in nations:
         WKGames = Set[18]
         OpenInns = Set[19]
 
-        g = open('dob.txt','a')
+        g = open('data/era/dob.txt', 'a')
         dobstats = [Set[0], Set[9], Set[16]]
         print (dobstats)
         g.write (str(dobstats))
