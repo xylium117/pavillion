@@ -12,7 +12,7 @@ for i in nations:
     country = i
 
     Lines = []
-    with open(str(str(country) + 'players.txt')) as f:
+    with open(str('data/'+ str(country) + 'players.txt')) as f:
         for line in f:
             Lines.append(line[1:-2])
 
@@ -234,7 +234,7 @@ for i in nations:
         
         Players.append(GameData)
         
-    filename = (str(country) + 'data.txt')
+    filename = ('data/'+ str(country) + 'data.txt')
     g = open(filename,'w')
     h = open ('alldata.txt','a')
     for i in range (0, len(Players)):
