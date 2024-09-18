@@ -83,6 +83,7 @@ Contributions are welcome! If you have any improvements, bug fixes, or new proje
 - [ ] Multiple formats
    - [ ] ODI
    - [ ] T20I
+- [ ] Player Stat improvement analysis
 
 See the [open issues](https://github.com/xylium117/zerconium/issues) for a full list of proposed features (and known issues).
 
