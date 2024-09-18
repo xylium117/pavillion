@@ -41,15 +41,15 @@ Don't hesitate to explore and give these projects a try! Feedback and contributi
 
 ## Getting Started 🚀
 
-To get started, simply open the Terminal and clone the project.
+1. To get started, simply open the Terminal and clone the project.
 ```bat
 git clone https://github.com/xylium117/zerconium.git
 ```
-Then proceed open the directory.
+2. Then proceed open the directory.
 ```bat
 cd zerconium
 ```
-Run a python script of your choice :
+3. Run a python script of your choice :
 ```bat
 python script.py
 ```
@@ -72,6 +72,18 @@ Contributions are welcome! If you have any improvements, bug fixes, or new proje
 3. Make your changes and commit them (`git commit -m 'Add new project'`).
 4. Push to your branch (`git push origin feature-name`).
 5. Open a pull request and describe your changes. 🚀🔗
+
+## Roadmap
+
+- [x] Add ICC All-Time teams in presets
+- [x] Fix bit-parsing error
+- [x] Update README.md
+- [ ] Custom Player designer
+- [ ] Multiple formats
+   - [ ] ODI
+   - [ ] T20I
+
+See the [open issues](https://github.com/xylium117/zerconium/issues) for a full list of proposed features (and known issues).
 
 ## License 📝
 
