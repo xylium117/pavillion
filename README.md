@@ -10,6 +10,8 @@ An interactive cricket simulator which can simulate matches between custom teams
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+</div>
+
 ## Table of Contents 📜
 
 - Overview 🌟
