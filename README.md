@@ -8,7 +8,7 @@ An interactive cricket simulator which can simulate matches between custom teams
 
 ---
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![License: MIT](license-gpl-3.0.svg)(https://github.com/xylium117/pavillion/blob/master/LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/LICENSE-GPL_3.0-green?style=for-the-badge)](https://github.com/xylium117/pavillion/blob/master/LICENSE.md)
 
 
 ## Table of Contents 📜
