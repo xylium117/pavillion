@@ -1,6 +1,10 @@
-# Zerconium 🏏
+# Pavillion
 
-An interactive cricket simulator that allows you to simulate cricket matches using custom teams and historical Test match lineups. 
+An interactive cricket simulator which can simulate matches between custom teams and historical Test match lineups. 
+
+<div align="center">
+
+![Pavillion Banner][banner](DIRECTORY.md)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
