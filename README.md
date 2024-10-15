@@ -2,16 +2,14 @@
 
 An interactive cricket simulator which can simulate matches between custom teams and historical Test match lineups. 
 
-<div align="center">
-
 <p align=”center”>
 <img width="1000" src="https://raw.githubusercontent.com/xylium117/pavillion/refs/heads/master/banner.png" alt="Banner">
 </p>
 
+---
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-</div>
 
 ## Table of Contents 📜
 
