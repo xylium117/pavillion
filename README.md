@@ -8,7 +8,7 @@ An interactive cricket simulator which can simulate matches between custom teams
 
 ---
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/xylium117/pavillion/blob/master/LICENSE.md)
+[![License: MIT](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjkuOTUzMTQwMjU4Nzg5MDYiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxNjkuOTUzMTQwMjU4Nzg5MDYgMzUiPjxyZWN0IHdpZHRoPSI4NS4zMTI1MDc2MjkzOTQ1MyIgaGVpZ2h0PSIzNSIgZmlsbD0iIzRhNGE0YSIvPjxyZWN0IHg9Ijg1LjMxMjUwNzYyOTM5NDUzIiB3aWR0aD0iODQuNjQwNjMyNjI5Mzk0NTMiIGhlaWdodD0iMzUiIGZpbGw9IiM3ZWQzMjEiLz48dGV4dCB4PSI0Mi42NTYyNTM4MTQ2OTcyNjYiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPkxJQ0VOU0U8L3RleHQ+PHRleHQgeD0iMTI3LjYzMjgyMzk0NDA5MTgiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInTW9udHNlcnJhdCcsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGxldHRlci1zcGFjaW5nPSIyIj5HUEwgMy4wPC90ZXh0Pjwvc3ZnPg==)](https://github.com/xylium117/pavillion/blob/master/LICENSE.md)
 
 
 ## Table of Contents 📜
