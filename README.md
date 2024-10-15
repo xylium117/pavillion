@@ -17,7 +17,7 @@ An interactive cricket simulator that allows you to simulate cricket matches usi
 
 ## Overview 🌟
 
-Zerconium allows you to simulate exciting cricket matches using both custom and historical teams. Whether you're a cricket enthusiast looking to relive classic International Test matches or a fan eager to create your own teams, Zerconium has something for you.
+Pavillion allows you to simulate exciting cricket matches using both custom and historical teams. Whether you're a cricket enthusiast looking to relive classic International Test matches or a fan eager to create your own teams, Pavillion has something for you.
 
 ## Features 📂
 
@@ -44,11 +44,11 @@ Don't hesitate to explore and give these projects a try! Feedback and contributi
 
 1. To get started, simply open the Terminal and clone the project.
 ```bat
-git clone https://github.com/xylium117/zerconium.git
+git clone https://github.com/xylium117/pavillion.git
 ```
 2. Then proceed open the directory.
 ```bat
-cd zerconium
+cd pavillion
 ```
 3. Run a python script of your choice :
 ```bat
@@ -62,7 +62,7 @@ python script.py
 
 ### Prerequisites 📋
 
-To run Zerconium, [Python](https://www.python.org/ftp/python/3.12.6/python-3.12.6-amd64.exe) must be downloaded. An IDE is also suggested if you want to contribute to the code. 🏗️
+To run Pavillion, [Python](https://www.python.org/ftp/python/3.12.6/python-3.12.6-amd64.exe) must be downloaded. An IDE is also suggested if you want to contribute to the code. 🏗️
 
 ## Contributing 🤝
 
@@ -85,7 +85,7 @@ Contributions are welcome! If you have any improvements, bug fixes, or new proje
    - [ ] T20I
 - [ ] Player Stat improvement analysis
 
-See the [open issues](https://github.com/xylium117/zerconium/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/xylium117/pavillion/issues) for a full list of proposed features (and known issues).
 
 ## License 📝
 
