@@ -5,7 +5,7 @@ An interactive cricket simulator which can simulate matches between custom teams
 <div align="center">
 
 <p align=”center”>
-<img height="420" width="1000" src="https://raw.githubusercontent.com/xylium117/pavillion/a82af16e2481b7e52d5dfd61015775d785142f75/Pavillion.png" alt="Banner">
+<img width="1000" src="https://raw.githubusercontent.com/xylium117/pavillion/a82af16e2481b7e52d5dfd61015775d785142f75/Pavillion.png" alt="Banner">
 </p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
