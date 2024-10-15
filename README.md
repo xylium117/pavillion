@@ -4,7 +4,9 @@ An interactive cricket simulator which can simulate matches between custom teams
 
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/xylium117/pavillion/a82af16e2481b7e52d5dfd61015775d785142f75/Pavillion.png)
+<p align=”center”>
+<img width="200" src="https://raw.githubusercontent.com/xylium117/pavillion/a82af16e2481b7e52d5dfd61015775d785142f75/Pavillion.png" alt="Banner">
+</p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
