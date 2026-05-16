@@ -61,6 +61,7 @@ python script.py
 ```
 **List of Runnable Scripts**<br>
 `custom.py` - Simulate a Test series between 2 custom teams<br>
+`customplayer.py` - Add, edit, or delete a player from the database<br>
 `customleague.py`- Simulate a league with a number of custom teams<br>
 `historical.py` - Simulate a Test series between 2 National teams (with players from a certain era)<br>
 `historicalleague.py` - Simulate a league with a number of National teams (with players from a certain era)<br>
@@ -84,7 +85,7 @@ Contributions are welcome! If you have any improvements, bug fixes, or new proje
 - [x] Add ICC All-Time teams in presets
 - [x] Fix bit-parsing error
 - [x] Update README.md
-- [ ] Custom Player designer
+- [x] Custom Player designer
 - [ ] Multiple formats
    - [ ] ODI
    - [ ] T20I
